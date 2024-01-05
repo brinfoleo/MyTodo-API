@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X/QcEl0V6rwyORH8MwWX8a+rO9OAeR7HdOBpH0p8mXyZAUpJmvfz+A+sUACPe0o/acQ7v11TsWAmG76Pj4ynDA==",
+  "dgSpecHash": "N7UFOYlJch6PSW6C6GFLxloKxkcDpoDJ6X26oreSF8iAHyT3AiZGg0GKwKOxKLX5fCr2N/IQc7FJ6z9deJ0zIw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Leo\\Desktop\\Projetos-CSharp\\MyTodo-API\\MyTodo-API\\MeuTodo.csproj",
+  "projectFilePath": "C:\\dev\\MyTodo-API\\MeuTodo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Leo\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Leo\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",

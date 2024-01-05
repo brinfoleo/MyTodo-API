@@ -1246,11 +1246,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Leo\\Desktop\\Projetos-CSharp\\MyTodo-API\\MyTodo-API\\MeuTodo.csproj",
+      "projectUniqueName": "C:\\dev\\MyTodo-API\\MeuTodo.csproj",
       "projectName": "MeuTodo",
-      "projectPath": "C:\\Users\\Leo\\Desktop\\Projetos-CSharp\\MyTodo-API\\MyTodo-API\\MeuTodo.csproj",
+      "projectPath": "C:\\dev\\MyTodo-API\\MeuTodo.csproj",
       "packagesPath": "C:\\Users\\Leo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Leo\\Desktop\\Projetos-CSharp\\MyTodo-API\\MyTodo-API\\obj\\",
+      "outputPath": "C:\\dev\\MyTodo-API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
